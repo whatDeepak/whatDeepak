@@ -2,9 +2,8 @@
 <p align="center"><img src="https://raw.githubusercontent.com/whatDeepak/whatDeepak/master/header.png"></p>
 
 
-## 💫 About Me:
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝘿𝙚𝙚𝙥𝙖𝙠 𝙆𝙪𝙢𝙖𝙧
 
-Hi, I'm Deepak
 
 ## 🌐 Socials:
 
