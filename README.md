@@ -1,7 +1,7 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝘿𝙚𝙚𝙥𝙖𝙠 𝙆𝙪𝙢𝙖𝙧
 
 <p align="center"><img src="https://raw.githubusercontent.com/whatDeepak/whatDeepak/master/cover-thompson.png"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/whatDeepak/whatDeepak/master/header.png"></p>
+<!-- <p align="center"><img src="https://raw.githubusercontent.com/whatDeepak/whatDeepak/master/header.png"></p> -->
 
 ## 🌐 Socials:
 
