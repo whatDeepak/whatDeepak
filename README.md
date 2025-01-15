@@ -1,13 +1,14 @@
-𝘫𝘶𝘴𝘵 𝘢 𝘨𝘶𝘺 𝘸𝘩𝘰 𝘤𝘰𝘱𝘦𝘴 𝘸𝘪𝘵𝘩 𝘭𝘪𝘧𝘦 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 𝘤𝘰𝘥𝘦! 🌻
+𝘫𝘶𝘴𝘵 𝘢 𝘨𝘶𝘺 𝘸𝘩𝘰 𝘤𝘰𝘱𝘦𝘴 𝘸𝘪𝘵𝘩 𝘭𝘪𝘧𝘦 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 𝘤𝘰𝘥𝘦! 🌻 [![](https://visitcount.itsvg.in/api?id=whatDeepak&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!--
 <p align="center"><img src="https://raw.githubusercontent.com/whatDeepak/whatDeepak/master/cover-thompson.png"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/whatDeepak/whatDeepak/master/header.png"></p>
 
-## 🌐 Socials:
+### 🌐 𝘚𝘰𝘤𝘪𝘢𝘭𝘴:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakkumar-dev/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/what.deepak_) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/what_deepak_)
 
+<!--
 # Technologies
 
 ### Frameworks, Platforms and Libraries
@@ -69,12 +70,8 @@
 
 <img src="https://raw.githubusercontent.com/whatDeepak/whatDeepak/output/snake.svg" alt="Snake animation" />
 
-## 📊 Languages:
+### 📊 𝘚𝘵𝘢𝘵𝘴:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=whatDeepak&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=whatDeepak&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=whatDeepak&icon=0&color=9)](https://visitcount.itsvg.in)
---!>
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=whatDeepak&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whatDeepak&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact) |
+| --- | --- |
+-->
